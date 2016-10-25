@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "3014814393",
+    "firebase_url": "https://jeeves-27914.firebaseio.com",
+    "project_id": "jeeves-27914",
+    "storage_bucket": "jeeves-27914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3014814393:android:2ecdcfd6208cc8c6",
+        "android_client_info": {
+          "package_name": "com.vpl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3014814393-aalk75os343tcfbhaoranhk6i2vacs9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYvoOndYI_jSPF2Z8iK7v2CVwpDcqE22I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
